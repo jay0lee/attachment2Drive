@@ -14,9 +14,9 @@ from urllib3.filepost import encode_multipart_formdata, choose_boundary
 
 rules_sheet_id = '1NCaI5uY49xQqJUf9cEMgo9QCorRIaQLkErV4K2CVwdU'
 rules_sheet_name = 'Rules'
-refresh_token = '1//0d-6tYFRrtS3UCgYIARAAGA0SNwF-L9IrYvgF2Y_IE3klxOyyrXgXWrFddCM-fU783RVJ7app7wbr8GNefPfHZDiQ8vPzXFegV6g'
-client_id = '669604920449-9vdd89egpo235uiepb8pj40s2257sbso.apps.googleusercontent.com'
-client_secret = 'TMclZqeo17Uv6uP7AerQqxcw'
+refresh_token = ''
+client_id = ''
+client_secret = ''
 token_uri = 'https://oauth2.googleapis.com/token'
 scope = 'https://mail.google.com/ https://www.googleapis.com/auth/drive'
 redirect_uri = 'https://us-east4-attachment2drive.cloudfunctions.net/authorize'
